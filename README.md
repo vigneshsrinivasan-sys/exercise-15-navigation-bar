@@ -1,6 +1,6 @@
 # Exercise 15 — Website Navigation Bar — Wanderly
 
-[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-15-navigation-bar/) · [HTML source](index.html) · [CSS source](styles.css)
+[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-15-navigation-bar/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
