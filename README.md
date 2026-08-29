@@ -1,6 +1,6 @@
 # Exercise 15 — Website Navigation Bar — Wanderly
 
-[Live demo](https://vigneshsrinivasan-sys.github.io/exercise-15-navigation-bar/) · [View source](https://github.com/vigneshsrinivasan-sys/exercise-15-navigation-bar)
+[Live demo ↗](https://vigneshsrinivasan-sys.github.io/exercise-15-navigation-bar/) · [HTML source](index.html) · [CSS source](styles.css)
 
 ![Rendered preview](preview.png)
 
@@ -25,4 +25,3 @@ Wanderly uses a navigation list, active and inactive classes, a constrained layo
 ## Sequence
 
 **Exercise 15 of 27** · Independent practice
-
